@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "subwayedu.com",
+        "141101.xyz",
+        "auvr.cc",
+        "bjsubway.com"
+      ]
+    }
+  ]
+}
