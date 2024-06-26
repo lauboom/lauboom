@@ -10,11 +10,15 @@
 # IP6-CIDR: 4
 # USER-AGENT: 31
 # TOTAL: 3753
-HOST-SUFFIX,141101.xyz,China
-HOST-SUFFIX,auvr.cc,China
-HOST-SUFFIX,bjsubway.com,China
-HOST-SUFFIX,subwayedu.com,China
+HOST-SUFFIX,141101.xyz,direct
+HOST-SUFFIX,auvr.cc,direct
+HOST-SUFFIX,bjsubway.com,direct
+HOST-SUFFIX,subwayedu.com,direct
 #临时
-HOST-SUFFIX,spotify.com,China
+HOST-SUFFIX,spotify.com,direct
+HOST-SUFFIX,icloud.com,direct
+HOST-SUFFIX,apple.com,direct
+
+
 
 
